@@ -1,5 +1,7 @@
 # 学习笔记
 
+在线访问：[https://melrose1994.com/docs/](https://melrose1994.com/docs/)
+
 基于 [MkDocs](https://www.mkdocs.org/) + [Material 主题](https://squidfunk.github.io/mkdocs-material/) 构建的个人技术学习笔记，涵盖全栈开发、移动端、DevOps、逆向工程等领域。
 
 ## 内容

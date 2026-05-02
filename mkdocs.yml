@@ -28,6 +28,8 @@ nav:
       - Flutter Rust Bridge: flutter/flutter-rust-bridge.md
   - Android:
       - Compose: android/compose.md
+  - iOS:
+      - iOS for Flutter: ios/ios-for-flutter.md
   - CI/CD:
       - Github Actions: cicd/github-actions.md
       - Gitlab CI/CD: cicd/gitlab-cicd.md
