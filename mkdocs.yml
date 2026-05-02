@@ -1,0 +1,45 @@
+site_name: 学习笔记
+
+nav:
+  - 首页: index.md
+  - 编程语言:
+      - Rust: 
+         - 概述: programming/rust/index.md
+      - TypeScript: 
+         - 概述: programming/typescript/index.md
+      - 垃圾回收算法: programming/garbage-collection-algorithms.md
+  - 前端:
+      - React: 
+         - React: frontend/react/react.md
+         - React-Router: frontend/react/react-router.md
+         - Redux: frontend/react/redux.md
+         - Zustand: frontend/react/zustand.md
+         - Nextjs: frontend/react/nextjs.md
+         - React-Native: frontend/react/react-native.md
+         - Shadcn: frontend/react/shadcn.md
+         - Antd: frontend/react/antd.md
+      - Sass: frontend/sass.md
+      - Tailwindcss: frontend/tailwindcss.md
+  - 后端:
+      - Docker: backend/docker.md
+
+  - Flutter:
+      - Flutter Agent Skills: flutter/agent-skills.md
+      - Flutter Rust Bridge: flutter/flutter-rust-bridge.md
+  - Android:
+      - Compose: android/compose.md
+  - CI/CD:
+      - Github Actions: cicd/github-actions.md
+      - Gitlab CI/CD: cicd/gitlab-cicd.md
+      - Jenkins: cicd/jenkins.md
+      - Fastlane: cicd/fastlane.md
+
+  - 逆向工程:
+      - Frida: reverse_engineering/frida.md
+      - Lsposed: reverse_engineering/lsposed.md
+      - Jadx: reverse_engineering/jadx.md
+      - 主流网络代理与隧道协议详解: reverse_engineering/agent.md
+  - AI:
+      - GitNexus: ai/GitNexus.md
+
+theme: material
