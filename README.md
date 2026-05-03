@@ -8,7 +8,7 @@
 
 - **编程语言** — Rust、TypeScript、垃圾回收算法
 - **前端** — React、Next.js、Redux、Zustand、Tailwind CSS、Sass
-- **后端** — Docker
+- **后端** — Docker、Axum、sqlx
 - **移动端** — Flutter、Android Compose、React Native
 - **CI/CD** — GitHub Actions、GitLab CI/CD、Jenkins、Fastlane
 - **逆向工程** — Frida、LSPosed、JADX

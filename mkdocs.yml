@@ -21,6 +21,9 @@ nav:
       - Sass: frontend/sass.md
       - Tailwindcss: frontend/tailwindcss.md
   - 后端:
+      - Rust:
+         - Axum: backend/rust/axum.md
+         - sqlx: backend/rust/sqlx.md
       - Docker: backend/docker.md
 
   - Flutter:
