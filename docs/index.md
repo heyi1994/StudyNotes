@@ -11,6 +11,7 @@
 | 文档                                                         | 简介                                           |
 | ------------------------------------------------------------ | ---------------------------------------------- |
 | [Rust](programming/rust/index.md)                            | 所有权、借用、生命周期、并发、异步、Axum       |
+| [clap](programming/rust/clap.md)                             | Rust 命令行解析库，Derive API、子命令、验证、Shell 补全 |
 | [TypeScript](programming/typescript/index.md)                | 静态类型系统、工程配置                         |
 | [垃圾回收算法](programming/garbage-collection-algorithms.md) | 标记清除、引用计数、分代回收等主流 GC 算法原理 |
 
@@ -21,6 +22,7 @@
 | 文档                                           | 简介                                   |
 | ---------------------------------------------- | -------------------------------------- |
 | [React](frontend/react/react.md)               | Hooks、状态管理、性能优化              |
+| [React Hook](frontend/react/react_hook.md)     | useState、useEffect、useRef、自定义 Hook |
 | [React Router](frontend/react/react-router.md) | 声明式路由、嵌套路由、数据加载         |
 | [Redux](frontend/react/redux.md)               | Redux Toolkit、异步 Thunk、RTK Query   |
 | [Zustand](frontend/react/zustand.md)           | 轻量状态管理、中间件、持久化           |
@@ -29,6 +31,7 @@
 | [shadcn/ui](frontend/react/shadcn.md)          | 组件库安装、主题定制、常用组件         |
 | [Ant Design](frontend/react/antd.md)           | 企业级 UI 组件、表单、表格             |
 | [Sass](frontend/sass.md)                       | 变量、嵌套、Mixin、函数                |
+| [CSS Modules](frontend/css-modules.md)         | 局部作用域 CSS、组合、与框架集成        |
 | [Tailwind CSS](frontend/tailwindcss.md)        | 原子化 CSS、响应式、暗色模式           |
 
 ---
