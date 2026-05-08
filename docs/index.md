@@ -43,6 +43,7 @@
 | [Docker](backend/docker.md)             | 镜像、容器、Dockerfile、Compose、网络与存储                  |
 | [Axum](backend/rust/axum.md)            | Rust Web 框架，提取器体系、中间件、sqlx 集成、JWT、WebSocket |
 | [sqlx](backend/rust/sqlx.md)            | Rust 异步数据库驱动，编译期 SQL 检查、迁移、事务、Repository 模式 |
+| [Redis](backend/redis.md)               | 内存数据库，String/Hash/List/Set/ZSet、连接池、限流、分布式锁 |
 
 ---
 

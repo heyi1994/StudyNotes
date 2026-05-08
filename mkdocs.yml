@@ -27,6 +27,7 @@ nav:
       - Rust:
          - Axum: backend/rust/axum.md
          - sqlx: backend/rust/sqlx.md
+      - Redis: backend/redis.md
       - Docker: backend/docker.md
 
   - Flutter:
