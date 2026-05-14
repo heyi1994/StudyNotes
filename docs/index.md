@@ -12,6 +12,7 @@
 | ------------------------------------------------------------ | ---------------------------------------------- |
 | [Rust](programming/rust/index.md)                            | 所有权、借用、生命周期、并发、异步、Axum       |
 | [clap](programming/rust/clap.md)                             | Rust 命令行解析库，Derive API、子命令、验证、Shell 补全 |
+| [build.rs](programming/rust/build_rs.md)                     | Cargo 构建脚本，编译前代码生成、链接库配置、环境变量注入 |
 | [TypeScript](programming/typescript/index.md)                | 静态类型系统、工程配置                         |
 | [垃圾回收算法](programming/garbage-collection-algorithms.md) | 标记清除、引用计数、分代回收等主流 GC 算法原理 |
 
@@ -43,7 +44,15 @@
 | [Docker](backend/docker.md)             | 镜像、容器、Dockerfile、Compose、网络与存储                  |
 | [Axum](backend/rust/axum.md)            | Rust Web 框架，提取器体系、中间件、sqlx 集成、JWT、WebSocket |
 | [sqlx](backend/rust/sqlx.md)            | Rust 异步数据库驱动，编译期 SQL 检查、迁移、事务、Repository 模式 |
+| [Tokio](backend/rust/tokio.md)          | Rust 异步运行时，Task、Channel、Timer、网络 I/O              |
+| [Tonic](backend/rust/tonic.md)          | Rust gRPC 框架，基于 Tokio，Protobuf 集成、双向流           |
+| [tracing](backend/rust/tracing.md)      | Rust 结构化日志与诊断框架，Span、事件、订阅者               |
 | [Redis](backend/redis.md)               | 内存数据库，String/Hash/List/Set/ZSet、连接池、限流、分布式锁 |
+| [SQL](backend/sql.md)                   | 关系型数据库标准语言，DDL/DML/DQL、事务、索引、优化          |
+| [Nginx](backend/nginx.md)               | 高性能 HTTP 服务器与反向代理，负载均衡、HTTPS、限流          |
+| [MQ](backend/mq.md)                     | 消息队列，异步解耦、发布订阅、RabbitMQ/Kafka 核心概念        |
+| [Protobuf](backend/protobuf.md)         | Protocol Buffers，序列化格式、.proto 语法、与 gRPC 集成     |
+| [微服务](backend/微服务.md)             | 微服务架构结合 Rust 实践，服务拆分、通信、部署               |
 
 ---
 

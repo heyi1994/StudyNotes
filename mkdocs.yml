@@ -6,6 +6,7 @@ nav:
       - Rust:
          - 概述: programming/rust/index.md
          - clap 命令行解析: programming/rust/clap.md
+         - build.rs 构建脚本: programming/rust/build_rs.md
       - TypeScript:
          - 概述: programming/typescript/index.md
       - 垃圾回收算法: programming/garbage-collection-algorithms.md
@@ -27,8 +28,16 @@ nav:
       - Rust:
          - Axum: backend/rust/axum.md
          - sqlx: backend/rust/sqlx.md
+         - Tokio: backend/rust/tokio.md
+         - Tonic: backend/rust/tonic.md
+         - tracing: backend/rust/tracing.md
       - Redis: backend/redis.md
       - Docker: backend/docker.md
+      - SQL: backend/sql.md
+      - Nginx: backend/nginx.md
+      - MQ: backend/mq.md
+      - Protobuf: backend/protobuf.md
+      - 微服务: "backend/微服务.md"
 
   - Flutter:
       - Flutter Agent Skills: flutter/agent-skills.md
