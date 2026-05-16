@@ -24,6 +24,8 @@ nav:
       - Sass: frontend/sass.md
       - CSS Modules: frontend/css-modules.md
       - Tailwindcss: frontend/tailwindcss.md
+      - JavaScript ES6~ES2025: frontend/JavaScript-ES6-to-ES2025.md
+      - 现代 Web 平台新特性: frontend/Web-Modern-Features.md
   - 后端:
       - Rust:
          - Axum: backend/rust/axum.md
@@ -57,6 +59,11 @@ nav:
       - Lsposed: reverse_engineering/lsposed.md
       - Jadx: reverse_engineering/jadx.md
       - 主流网络代理与隧道协议详解: reverse_engineering/agent.md
+  - 游戏开发:
+      - Godot:
+          - Godot 引擎入门: game/godot/godot_tutorial.md
+          - GDScript: game/godot/gdscript.md
+
   - AI:
       - GitNexus: ai/GitNexus.md
 

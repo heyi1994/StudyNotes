@@ -34,6 +34,8 @@
 | [Sass](frontend/sass.md)                       | 变量、嵌套、Mixin、函数                |
 | [CSS Modules](frontend/css-modules.md)         | 局部作用域 CSS、组合、与框架集成        |
 | [Tailwind CSS](frontend/tailwindcss.md)        | 原子化 CSS、响应式、暗色模式           |
+| [JavaScript ES6~ES2025](frontend/JavaScript-ES6-to-ES2025.md) | ES6 到 ES2025 各版本新特性速查，let/const、模块、异步、Proxy 等 |
+| [现代 Web 平台新特性](frontend/Web-Modern-Features.md) | HTML/CSS/JS 平台级新特性，dialog、Container Queries、Web Components 等 |
 
 ---
 
@@ -100,6 +102,15 @@
 | [JADX](reverse_engineering/jadx.md)                    | APK/DEX 反编译、反混淆、代码搜索、与 Frida 联动         |
 | [LSPosed](reverse_engineering/lsposed.md)              | Xposed 模块开发、Hook API、反检测、Kotlin 写法          |
 | [主流网络代理与隧道协议](reverse_engineering/agent.md) | HTTP 代理、SOCKS5、隧道协议原理与对比                   |
+
+---
+
+### 游戏开发
+
+| 文档                                               | 简介                                              |
+| -------------------------------------------------- | ------------------------------------------------- |
+| [Godot 引擎入门](game/godot/godot_tutorial.md)     | Godot 安装、节点/场景系统、2D/3D 基础、项目结构   |
+| [GDScript](game/godot/gdscript.md)                 | Godot 专属脚本语言，语法、信号、协程、与引擎集成  |
 
 ---
 

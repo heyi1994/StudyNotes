@@ -7,11 +7,12 @@
 ## 内容
 
 - **编程语言** — Rust、TypeScript、垃圾回收算法
-- **前端** — React、Next.js、Redux、Zustand、Tailwind CSS、Sass
+- **前端** — React、Next.js、Redux、Zustand、Tailwind CSS、Sass、JavaScript ES6~ES2025、现代 Web 平台新特性
 - **后端** — Docker、Axum、sqlx
 - **移动端** — Flutter、Android Compose、React Native
 - **CI/CD** — GitHub Actions、GitLab CI/CD、Jenkins、Fastlane
 - **逆向工程** — Frida、LSPosed、JADX
+- **游戏开发** — Godot、GDScript
 - **AI** — GitNexus
 
 ## 本地运行
