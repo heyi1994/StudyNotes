@@ -12,7 +12,7 @@
 - **移动端** — Flutter、Android Compose、React Native
 - **CI/CD** — GitHub Actions、GitLab CI/CD、Jenkins、Fastlane
 - **逆向工程** — Frida、LSPosed、JADX
-- **游戏开发** — Godot、GDScript
+- **游戏开发** — Godot、GDScript、Input 输入系统、Physics & Signals、Parallax2D
 - **AI** — GitNexus
 
 ## 本地运行

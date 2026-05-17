@@ -63,6 +63,9 @@ nav:
       - Godot:
           - Godot 引擎入门: game/godot/godot_tutorial.md
           - GDScript: game/godot/gdscript.md
+          - Input 输入系统: game/godot/godot-input.md
+          - Physics & Signals: game/godot/godot-physics-signals.md
+          - Parallax2D: game/godot/godot-Parallax2D.md
 
   - AI:
       - GitNexus: ai/GitNexus.md

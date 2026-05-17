@@ -111,6 +111,9 @@
 | -------------------------------------------------- | ------------------------------------------------- |
 | [Godot 引擎入门](game/godot/godot_tutorial.md)     | Godot 安装、节点/场景系统、2D/3D 基础、项目结构   |
 | [GDScript](game/godot/gdscript.md)                 | Godot 专属脚本语言，语法、信号、协程、与引擎集成  |
+| [Input 输入系统](game/godot/godot-input.md)        | 输入事件、InputMap、轮询与事件两种处理哲学        |
+| [Physics & Signals](game/godot/godot-physics-signals.md) | 物理系统概览、刚体、碰撞检测、信号机制      |
+| [Parallax2D](game/godot/godot-Parallax2D.md)       | Godot 4.3+ 视差滚动节点，2D 背景层动画          |
 
 ---
 
