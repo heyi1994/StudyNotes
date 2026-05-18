@@ -114,6 +114,10 @@
 | [Input 输入系统](game/godot/godot-input.md)        | 输入事件、InputMap、轮询与事件两种处理哲学        |
 | [Physics & Signals](game/godot/godot-physics-signals.md) | 物理系统概览、刚体、碰撞检测、信号机制      |
 | [Parallax2D](game/godot/godot-Parallax2D.md)       | Godot 4.3+ 视差滚动节点，2D 背景层动画          |
+| [常用 2D 节点](game/godot/godot_2d_nodes.md)       | Node2D、Sprite2D、CollisionShape2D 等常用节点详解 |
+| [Animation 动画系统](game/godot/godot_animation.md) | AnimationPlayer、AnimationTree、Tween 动画系统   |
+| [Layout UI 布局](game/godot/godot_layout.md)        | Control 节点体系、锚点、容器布局、UI 系统         |
+| [TileMapLayer 瓦片地图](game/godot/godot_tilemaplayer.md) | 瓦片地图、地形笔刷、图集配置、程序化生成    |
 
 ---
 

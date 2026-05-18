@@ -66,6 +66,10 @@ nav:
           - Input 输入系统: game/godot/godot-input.md
           - Physics & Signals: game/godot/godot-physics-signals.md
           - Parallax2D: game/godot/godot-Parallax2D.md
+          - 常用 2D 节点: game/godot/godot_2d_nodes.md
+          - Animation 动画系统: game/godot/godot_animation.md
+          - Layout UI 布局: game/godot/godot_layout.md
+          - TileMapLayer 瓦片地图: game/godot/godot_tilemaplayer.md
 
   - AI:
       - GitNexus: ai/GitNexus.md
