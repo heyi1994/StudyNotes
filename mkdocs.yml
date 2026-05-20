@@ -46,6 +46,7 @@ nav:
       - Flutter Rust Bridge: flutter/flutter-rust-bridge.md
   - Android:
       - Compose: android/compose.md
+      - Android 17 行为变更: "android/Android17_行为变更.md"
   - iOS:
       - iOS for Flutter: ios/ios-for-flutter.md
   - CI/CD:
@@ -70,6 +71,7 @@ nav:
           - Animation 动画系统: game/godot/godot_animation.md
           - Layout UI 布局: game/godot/godot_layout.md
           - TileMapLayer 瓦片地图: game/godot/godot_tilemaplayer.md
+          - 2D 导航系统: game/godot/godot_2d_navigation.md
 
   - AI:
       - GitNexus: ai/GitNexus.md

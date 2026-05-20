@@ -72,6 +72,7 @@
 | 文档                                  | 简介                            |
 | ------------------------------------- | ------------------------------- |
 | [Jetpack Compose](android/compose.md) | 声明式 UI、状态管理、导航、主题 |
+| [Android 17 行为变更](android/Android17_行为变更.md) | Android 17 (API 37) 行为变更，内存限制、权限、隐私、前台服务等 |
 
 ---
 
@@ -118,6 +119,7 @@
 | [Animation 动画系统](game/godot/godot_animation.md) | AnimationPlayer、AnimationTree、Tween 动画系统   |
 | [Layout UI 布局](game/godot/godot_layout.md)        | Control 节点体系、锚点、容器布局、UI 系统         |
 | [TileMapLayer 瓦片地图](game/godot/godot_tilemaplayer.md) | 瓦片地图、地形笔刷、图集配置、程序化生成    |
+| [2D 导航系统](game/godot/godot_2d_navigation.md) | NavigationRegion2D、AStarGrid2D、AStar2D 三种寻路方案与实践 |
 
 ---
 
