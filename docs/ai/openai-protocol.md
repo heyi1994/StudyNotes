@@ -1735,8 +1735,3 @@ def safe_call(messages, retries=3):
             else:
                 raise
 ```
-
----
-
-_文档版本：v1.0 | 更新日期：2025-05_  
-_参考：[OpenAI API Reference](https://platform.openai.com/docs/api-reference)_
