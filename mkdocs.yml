@@ -54,6 +54,7 @@ nav:
       - Gitlab CI/CD: cicd/gitlab-cicd.md
       - Jenkins: cicd/jenkins.md
       - Fastlane: cicd/fastlane.md
+      - Webhook: cicd/webhook.md
 
   - 逆向工程:
       - Frida: reverse_engineering/frida.md
@@ -72,8 +73,10 @@ nav:
           - Layout UI 布局: game/godot/godot_layout.md
           - TileMapLayer 瓦片地图: game/godot/godot_tilemaplayer.md
           - 2D 导航系统: game/godot/godot_2d_navigation.md
+          - .tres 资源文件: game/godot/godot_tres.md
 
   - AI:
       - GitNexus: ai/GitNexus.md
+      - OpenAI API 协议: ai/openai-protocol.md
 
 theme: material

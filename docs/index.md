@@ -92,6 +92,7 @@
 | [GitLab CI/CD](cicd/gitlab-cicd.md)      | `.gitlab-ci.yml`、Runner、DAG 依赖、多项目 Pipeline      |
 | [Jenkins](cicd/jenkins.md)               | Declarative Pipeline、Shared Library、分布式构建         |
 | [Fastlane](cicd/fastlane.md)             | iOS/Android 自动化打包、签名、App Store/Google Play 发布 |
+| [Webhook](cicd/webhook.md)               | 事件驱动回调机制，HTTP 推送、签名验证、与 CI/CD 集成     |
 
 ---
 
@@ -120,6 +121,7 @@
 | [Layout UI 布局](game/godot/godot_layout.md)        | Control 节点体系、锚点、容器布局、UI 系统         |
 | [TileMapLayer 瓦片地图](game/godot/godot_tilemaplayer.md) | 瓦片地图、地形笔刷、图集配置、程序化生成    |
 | [2D 导航系统](game/godot/godot_2d_navigation.md) | NavigationRegion2D、AStarGrid2D、AStar2D 三种寻路方案与实践 |
+| [.tres 资源文件](game/godot/godot_tres.md) | Godot 文本资源格式，自定义 Resource、数据持久化与序列化 |
 
 ---
 
@@ -128,3 +130,4 @@
 | 文档                       | 简介                                                     |
 | -------------------------- | -------------------------------------------------------- |
 | [GitNexus](ai/GitNexus.md) | 代码库知识图谱引擎，零服务器部署，辅助 AI 理解大型代码库 |
+| [OpenAI API 协议](ai/openai-protocol.md) | OpenAI 兼容接口规范，Chat Completions、流式响应、工具调用 |
