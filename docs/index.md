@@ -13,6 +13,15 @@
 | [Rust](programming/rust/index.md)                            | 所有权、借用、生命周期、并发、异步、Axum       |
 | [clap](programming/rust/clap.md)                             | Rust 命令行解析库，Derive API、子命令、验证、Shell 补全 |
 | [build.rs](programming/rust/build_rs.md)                     | Cargo 构建脚本，编译前代码生成、链接库配置、环境变量注入 |
+| [std: Option / Result / ?](programming/rust/std_error_handling.md) | Option/Result/? 运算符、自定义错误类型、thiserror/anyhow |
+| [std: 泛型 / Trait / Trait 对象](programming/rust/std_generics_and_traits.md) | 泛型函数/结构体、Trait 定义与实现、Trait 对象动态分发 |
+| [std: Iterator 迭代器与闭包](programming/rust/std_iterator_and_closure.md) | 迭代器链式调用、闭包捕获规则、自定义迭代器 |
+| [std: 生命周期（Lifetime）](programming/rust/std_lifetimes.md) | 生命周期标注、省略规则、结构体引用、`'static` |
+| [std: OnceCell / OnceLock / LazyCell / LazyLock](programming/rust/std_once_and_lazy.md) | 全局单次初始化、懒加载、线程安全单例 |
+| [std: 智能指针（Box / Rc / Arc / Cell）](programming/rust/std_smart_pointers.md) | Box、Rc/Arc、RefCell、Cell、Weak、Cow 完整解析 |
+| [std: Vec / HashMap 集合类型](programming/rust/std_collections_vec_map.md) | Vec、HashMap、BTreeMap、HashSet、VecDeque 操作速查 |
+| [std: 并发原语（Thread / Channel / Mutex）](programming/rust/std_concurrency.md) | Thread、Channel、Mutex、Atomic、Send/Sync 无畏并发 |
+| [std: async / await / Future / Tokio](programming/rust/std_async_await.md) | async/await 机制、Future 状态机、Tokio 运行时实践 |
 | [TypeScript](programming/typescript/index.md)                | 静态类型系统、工程配置                         |
 | [垃圾回收算法](programming/garbage-collection-algorithms.md) | 标记清除、引用计数、分代回收等主流 GC 算法原理 |
 
@@ -73,6 +82,7 @@
 | ------------------------------------- | ------------------------------- |
 | [Jetpack Compose](android/compose.md) | 声明式 UI、状态管理、导航、主题 |
 | [Android 17 行为变更](android/Android17_行为变更.md) | Android 17 (API 37) 行为变更，内存限制、权限、隐私、前台服务等 |
+| [AOSP 构建 Rust 模块](android/android-rust-modules-guide.md) | AOSP Soong 构建系统，Android.bp 声明 Rust 模块、单元测试、C 绑定 |
 
 ---
 

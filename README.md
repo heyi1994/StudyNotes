@@ -6,10 +6,10 @@
 
 ## 内容
 
-- **编程语言** — Rust、TypeScript、垃圾回收算法
+- **编程语言** — Rust（含 std 系列：错误处理、泛型/Trait、迭代器与闭包、生命周期、OnceCell/Lazy、智能指针、集合类型、并发原语、async/await）、TypeScript、垃圾回收算法
 - **前端** — React、Next.js、Redux、Zustand、Tailwind CSS、Sass、JavaScript ES6~ES2025、现代 Web 平台新特性
 - **后端** — Docker、Axum、sqlx
-- **移动端** — Flutter、Android Compose、Android 17 行为变更、React Native
+- **移动端** — Flutter、Android Compose、Android 17 行为变更、AOSP 构建 Rust 模块、React Native
 - **CI/CD** — GitHub Actions、GitLab CI/CD、Jenkins、Fastlane、Webhook
 - **逆向工程** — Frida、LSPosed、JADX
 - **游戏开发** — Godot、GDScript、Input 输入系统、Physics & Signals、Parallax2D、常用 2D 节点、Animation 动画系统、Layout UI 布局、TileMapLayer 瓦片地图、2D 导航系统、.tres 资源文件

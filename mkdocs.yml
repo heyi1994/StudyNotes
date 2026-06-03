@@ -7,6 +7,15 @@ nav:
          - 概述: programming/rust/index.md
          - clap 命令行解析: programming/rust/clap.md
          - build.rs 构建脚本: programming/rust/build_rs.md
+         - "std: Option / Result / ? 错误处理": programming/rust/std_error_handling.md
+         - "std: 泛型 / Trait / Trait 对象": programming/rust/std_generics_and_traits.md
+         - "std: Iterator 迭代器与闭包": programming/rust/std_iterator_and_closure.md
+         - "std: 生命周期（Lifetime）": programming/rust/std_lifetimes.md
+         - "std: OnceCell / OnceLock / LazyCell / LazyLock": programming/rust/std_once_and_lazy.md
+         - "std: 智能指针（Box / Rc / Arc / Cell）": programming/rust/std_smart_pointers.md
+         - "std: Vec / HashMap 集合类型": programming/rust/std_collections_vec_map.md
+         - "std: 并发原语（Thread / Channel / Mutex）": programming/rust/std_concurrency.md
+         - "std: async / await / Future / Tokio": programming/rust/std_async_await.md
       - TypeScript:
          - 概述: programming/typescript/index.md
       - 垃圾回收算法: programming/garbage-collection-algorithms.md
@@ -47,6 +56,7 @@ nav:
   - Android:
       - Compose: android/compose.md
       - Android 17 行为变更: "android/Android17_行为变更.md"
+      - AOSP 构建 Rust 模块: android/android-rust-modules-guide.md
   - iOS:
       - iOS for Flutter: ios/ios-for-flutter.md
   - CI/CD:
