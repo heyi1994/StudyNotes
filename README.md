@@ -13,7 +13,7 @@
 - **CI/CD** — GitHub Actions、GitLab CI/CD、Jenkins、Fastlane、Webhook
 - **逆向工程** — Frida、LSPosed、JADX
 - **游戏开发** — Godot、GDScript、Input 输入系统、Physics & Signals、Parallax2D、常用 2D 节点、Animation 动画系统、Layout UI 布局、TileMapLayer 瓦片地图、2D 导航系统、.tres 资源文件
-- **AI** — GitNexus、OpenAI API 协议
+- **AI** — GitNexus、OpenAI API 协议、Agent 开发（TypeScript + Claude）
 
 ## 本地运行
 

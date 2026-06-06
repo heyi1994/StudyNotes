@@ -141,3 +141,4 @@
 | -------------------------- | -------------------------------------------------------- |
 | [GitNexus](ai/GitNexus.md) | 代码库知识图谱引擎，零服务器部署，辅助 AI 理解大型代码库 |
 | [OpenAI API 协议](ai/openai-protocol.md) | OpenAI 兼容接口规范，Chat Completions、流式响应、工具调用 |
+| [Agent 开发（TypeScript）](ai/agent-development-ts.md) | 用 TypeScript + Claude 构建 Agent，ReAct 循环、工具调用、Agent Loop 实战 |

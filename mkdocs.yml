@@ -88,5 +88,6 @@ nav:
   - AI:
       - GitNexus: ai/GitNexus.md
       - OpenAI API 协议: ai/openai-protocol.md
+      - Agent 开发（TypeScript）: ai/agent-development-ts.md
 
 theme: material
