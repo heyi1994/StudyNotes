@@ -53,6 +53,8 @@ nav:
   - Flutter:
       - Flutter Agent Skills: flutter/agent-skills.md
       - Flutter Rust Bridge: flutter/flutter-rust-bridge.md
+      - Flutter Monorepo 实践: flutter/flutter-monorepo.md
+      - 通行密钥 Passkey: flutter/passkey-implementation.md
   - Android:
       - Compose: android/compose.md
       - Android 17 行为变更: "android/Android17_行为变更.md"

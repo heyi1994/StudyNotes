@@ -73,6 +73,8 @@
 | ----------------------------------------------------- | -------------------------------------------------------------------- |
 | [Agent Skills](flutter/agent-skills.md)               | Flutter/Dart 官方 AI 技能库，配合 Claude Code、Cursor 等 AI 助手使用 |
 | [Flutter Rust Bridge](flutter/flutter-rust-bridge.md) | Flutter 与 Rust 互调，FFI 绑定代码生成                               |
+| [Flutter Monorepo 实践](flutter/flutter-monorepo.md)  | Melos + Bloc 管理多包仓库，按功能分包策略对比                       |
+| [通行密钥 Passkey](flutter/passkey-implementation.md) | FIDO2 / WebAuthn 无密码认证，Android / iOS / Flutter 实现          |
 
 ---
 
